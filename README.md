@@ -128,7 +128,7 @@ class SecondRoute extends StatelessWidget {
 发现点击更新title值后第一个按钮的文字并没有更新。
 那么如何在我们修改了titleText后，让按钮的文字同步更新呢？
 这就是文章开头的第二个类型任务了
-请看[Flutter Provider入门（二)]()
+请看[Flutter Provider入门（二)](https://www.jianshu.com/p/7d55655cfb89)
 
 
 
